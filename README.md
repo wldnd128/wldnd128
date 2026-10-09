@@ -2,14 +2,6 @@
 
 <img src="assets/industrial-ai-header.svg" width="100%" alt="Jiung Choi — Smart Factory Engineer banner" />
 
-# Hi, I'm Jiung Choi 👋
-
-### Smart Factory Engineer · Manufacturing AI · Computer Vision
-
-I build practical AI systems that make manufacturing **safer, smarter, and more reliable**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jiung%20Choi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiung-choi-290764374/)
-
 </div>
 
 ---
@@ -33,7 +25,9 @@ I build practical AI systems that make manufacturing **safer, smarter, and more 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLO" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -46,7 +40,7 @@ I build practical AI systems that make manufacturing **safer, smarter, and more 
 Developing a thermal-imaging human-detection system to help prevent hazardous equipment operation when a person enters a restricted area. The work covers ROI design, model-operation policies, interlock integration, data feedback loops, and reliability validation for the production floor.
 
 ### 🔍 Glass Sealer Quality Inspection
-Designed a two-stage inspection approach for automotive glass sealer defects: pose-based feature extraction followed by a machine-learning decision model. The pipeline focuses on geometric quality indicators—width, height, arch shape, symmetry, outliers—and production-ready inference speed.
+Developed an enhanced vision-inspection algorithm for sealer application in an automotive assembly plant, reducing missed defects by over 50% and false positives by over 10% compared with the existing inspection system.
 
 ### 🏭 Factory BI & Manufacturing Data Education
 Driving data standardization and visualization initiatives for production, quality, and equipment KPIs. I also teach practical Python-based manufacturing analytics, from data cleaning and visualization to classification, regression, and bottleneck analysis.
@@ -72,6 +66,7 @@ Exploring vision-based inspection strategies for assembly anomalies in constrain
 - HDAT Certified Instructor
 - Gold Award — Creative Engineering Competition
 - Honorable Mention — Hanium ICT Mentoring
+- 3rd Place — Energy Category, Daegu Metropolitan City Big Data Analysis Competition
 
 ## What I'm Building Next
 
