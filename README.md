@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/industrial-ai-header.svg" width="100%" alt="Jiung Choi — Smart Factory Engineer banner" />
+
 # Hi, I'm Jiung Choi 👋
 
 ### Smart Factory Engineer · Manufacturing AI · Computer Vision
